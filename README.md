@@ -29,4 +29,4 @@ Pruebas
 El proyecto incluye pruebas unitarias escritas con JUnit 4 para verificar el correcto funcionamiento de las clases y métodos principales. Estas pruebas se encuentran en el archivo LibreriaOnlineTest.java. Para ejecutar las pruebas, asegúrate de tener JUnit 4 configurado en tu entorno de desarrollo y ejecuta el archivo de pruebas.
 
 Notas
-La aplicación de la Librería Online es un proyecto de ejemplo y no está destinada a ser utilizada en un entorno de producción real. Se ha desarrollado con fines educativos y de demostración.
+La aplicación de la Librería Online es un proyecto de ejemplo y no está destinada a ser utilizada en un entorno de producción real. Se ha desarrollado con fines educativos y de demostración.(CREARA EN TU DIRECTORIO DOS BASES DE DATOS CON LOS USUARIOS Y PRODUCTOS)
